@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tp2_algo2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/agustin/Descargas/tp2_algo2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/agustin/Descargas/tp2_algo2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/agustin/Descargas/tp2_algo2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp2_algo2">
+				<Option output="/home/agustin/Descargas/tp2_algo2/cmake-build-debug/tp2_algo2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agustin/Descargas/tp2_algo2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 tp2_algo2"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tp2_algo2/fast">
+				<Option output="/home/agustin/Descargas/tp2_algo2/cmake-build-debug/tp2_algo2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agustin/Descargas/tp2_algo2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 tp2_algo2/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/agustin/Descargas/tp2_algo2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Constantes.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Contador.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Contador.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Creador.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Creador.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Matriz.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Matriz.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Menu.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Menu.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Objeto_generico.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Objeto_generico.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Ser.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Ser.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Vampiro.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/Vampiro.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/agua_bendita.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/agua_bendita.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/bala.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/bala.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/cruz.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/cruz.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/elemento.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/elemento.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/escopeta.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/escopeta.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/estaca.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/estaca.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/humano.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/humano.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/humanocv.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/humanocv.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/leer_y__procesar_archivo.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/leer_y__procesar_archivo.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/main_tp2.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/nosferatu.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/nosferatu.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/objetos.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/objetos.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/vampirella.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/vampirella.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/vanesa.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/vanesa.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/zombi.cpp">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/zombi.h">
+			<Option target="tp2_algo2"/>
+		</Unit>
+		<Unit filename="/home/agustin/Descargas/tp2_algo2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
